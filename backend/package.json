@@ -1,0 +1,22 @@
+{
+  "name": "myshoprest",
+  "version": "1.0.0",
+  "description": "My Backend for React Apps",
+  "main": "server.js",
+  "scripts": {
+    "test": "Karthikeyan",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
